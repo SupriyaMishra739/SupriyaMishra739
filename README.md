@@ -9,7 +9,7 @@ I'm an **MTech student in Computer Science** and an absolute **tech enthusiast**
 - 🛠️ **Anything Else?** – Who knows? The repository count is only going up! 📈
 
 ## 🌱 Let's Connect!
-- 💬 Open to discussions, collaborations, and tech talks!
+- 💬 Open to tech discussions and collaborations!
 - 📩 Feel free to **DM me** for anything tech-related.
 
 
