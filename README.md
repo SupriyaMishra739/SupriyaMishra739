@@ -1,4 +1,4 @@
-# Hey there! I am Supriya Mishra 👋 Welcome to my GitHub!
+# Hey there! I'm Supriya Mishra 👋 Welcome to my GitHub!
 
 ## 🚀 About Me
 I'm an **MTech student in Computer Science** and an absolute **tech enthusiast**! 
