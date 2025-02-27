@@ -11,7 +11,7 @@ I'm an **MTech student in Computer Science** and an absolute **tech enthusiast**
 ## 🌱 Let's Connect!
 - 💬 Open to discussions, collaborations, and tech talks!
 - 📩 Feel free to **DM me** for anything tech-related.
-- ⭐ If you find anything useful here, don’t forget to **star the repo!**
+
 
 Happy Coding! 🚀
 
