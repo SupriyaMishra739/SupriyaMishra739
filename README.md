@@ -1,58 +1,58 @@
-# Hey there! I'm Supriya Mishra 👋 Welcome to my GitHub!
+# 👋 Hi, I'm [Your Name]
 
-## 🚀 About Me
-I'm an **MTech student in Computer Science** and an absolute **tech enthusiast**! 
+🚀 **Eager and Motivated IT Professional Ready to Learn, Innovate, and Excel**
 
-## 🌱 Let's Connect!
-- 💬 Open to tech discussions and collaborations!
-- 📩 Feel free to **DM me** for anything tech-related.
-
-  # 👋 Hey there! I'm [Your Name] 
-
-🚀 Passionate about coding, problem-solving, and building scalable applications. I work on various projects using modern tech stacks. Committed to continuous learning and open-source contributions!  
+📧 **Email**: [your-email@example.com](mailto:your-email@example.com)  
+🌐 **Portfolio**: [https://supriyamishra739.github.io/](https://supriyamishra739.github.io/)  
 
 ---
 
-## 🔥 My Tech Stack
-
-### Programming Languages:
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-### Web Development:
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-### Tools & Platforms:
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+## 🛠️ **Tech Stack**
+- **Programming Languages**: C/C++, Python, Java, JavaScript  
+- **Web Development**: HTML, CSS, ReactJS, PHP  
+- **Databases**: MySQL  
+- **Tools**: Git, GitHub, PyCharm, VS Code  
+- **Learning**: Blockchain, Artificial Intelligence  
 
 ---
 
-## 📊 GitHub Stats
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight)
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight)
+## 🚀 **Projects**
+
+### **1. Bank Management System | C++**
+- Developed a **Bank Management System** using C++ to simulate banking operations like account creation, deposits, and withdrawals.
+- **Tech Stack**: C++, File Handling, OOP  
+- [View Project](#)
+
+### **2. Data Analysis of Olympic History | Python, Streamlit**
+- Analyzed 120 years of Olympic data to uncover trends in gender participation and medal distributions.
+- **Tech Stack**: Python, Streamlit, Pandas, Matplotlib  
+- [View Project](#)
+
+### **3. Steganography Software | Python**
+- Built a secure steganography tool to hide text/files within images using password protection.
+- **Tech Stack**: Python, File Handling  
+- [View Project](#)
 
 ---
 
-## 📂 Featured Projects
-- **[Project Name](https://github.com/yourusername/project-repo)** - Short project description.
-- **[Another Project](https://github.com/yourusername/another-repo)** - Another short description.
+## 📈 **GitHub Stats**
+
+| Most Used Languages | GitHub Stats |
+|---------------------|--------------|
+| ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SupriyaMishra739&layout=compact&theme=radical) | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SupriyaMishra739&show_icons=true&theme=radical) |
 
 ---
 
-## 📬 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile/)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)  
+## 🌟 **Daily Contributions**
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SupriyaMishra739&theme=radical)
 
-🚀 **Let's Build Something Amazing Together!** 🚀
+---
 
-- 
+## 📫 **Let's Connect!**
+- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)  
+- **Twitter**: [Your Twitter Handle](https://twitter.com/your-handle)  
+- **Email**: [your-email@example.com](mailto:your-email@example.com)  
 
+---
 
-Happy Coding! 🚀
-
+⭐ **Thanks for visiting my GitHub profile!** ⭐
