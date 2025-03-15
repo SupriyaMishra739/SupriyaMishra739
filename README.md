@@ -3,14 +3,6 @@
 🚀 **Eager and Motivated IT Professional Ready to Learn, Innovate, and Excel**
 ---
 
-## 🛠️ **Tech Stack**
-- **Programming Languages**: C/C++, Python, Java, JavaScript  
-- **Web Development**: HTML, CSS, ReactJS
-- **Databases**: MySQL  
-- **Tools**: Git, GitHub, PyCharm, VS Code  
-- **Learning**: Artificial Intelligence & Machine Learning
--
-
 ## 📈 **GitHub Stats**
 
 | Most Used Languages | GitHub Stats |
@@ -28,13 +20,9 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SupriyaMishra739&theme=radical)
 
----
-
-## 📫 **Let's Connect!**
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)  
-- **Twitter**: [Your Twitter Handle](https://twitter.com/your-handle)  
-- **Email**: [your-email@example.com](mailto:your-email@example.com)  
-
+-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ---
 
 ⭐ **Thanks for visiting my GitHub profile!** ⭐
