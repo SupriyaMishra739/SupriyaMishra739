@@ -1,39 +1,15 @@
-# 👋 Hi, I'm [Your Name]
+# 👋 Hi, I'm Supriya Mishra
 
 🚀 **Eager and Motivated IT Professional Ready to Learn, Innovate, and Excel**
-
-📧 **Email**: [your-email@example.com](mailto:your-email@example.com)  
-🌐 **Portfolio**: [https://supriyamishra739.github.io/](https://supriyamishra739.github.io/)  
-
 ---
 
 ## 🛠️ **Tech Stack**
 - **Programming Languages**: C/C++, Python, Java, JavaScript  
-- **Web Development**: HTML, CSS, ReactJS, PHP  
+- **Web Development**: HTML, CSS, ReactJS
 - **Databases**: MySQL  
 - **Tools**: Git, GitHub, PyCharm, VS Code  
-- **Learning**: Blockchain, Artificial Intelligence  
-
----
-
-## 🚀 **Projects**
-
-### **1. Bank Management System | C++**
-- Developed a **Bank Management System** using C++ to simulate banking operations like account creation, deposits, and withdrawals.
-- **Tech Stack**: C++, File Handling, OOP  
-- [View Project](#)
-
-### **2. Data Analysis of Olympic History | Python, Streamlit**
-- Analyzed 120 years of Olympic data to uncover trends in gender participation and medal distributions.
-- **Tech Stack**: Python, Streamlit, Pandas, Matplotlib  
-- [View Project](#)
-
-### **3. Steganography Software | Python**
-- Built a secure steganography tool to hide text/files within images using password protection.
-- **Tech Stack**: Python, File Handling  
-- [View Project](#)
-
----
+- **Learning**: Artificial Intelligence & Machine Learning
+-
 
 ## 📈 **GitHub Stats**
 
