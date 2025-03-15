@@ -1,6 +1,5 @@
 # 👋 Hi, I'm Supriya Mishra
 
-🚀 **Eager and Motivated IT Professional Ready to Learn, Innovate, and Excel**
 ---
 ## 🔥 My Tech Stack
 
