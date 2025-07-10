@@ -1,13 +1,9 @@
 
 <h1 align="center">Hey, I'm Supriya Mishra</h1> 
 
-
-
-
 <p align="center">
-  <img src="https://octodex.github.com/images/nuxtocat.png" width="300" />
+  <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" width="300"/>
 </p>
-
 
 ## :wave: About Me 
 
