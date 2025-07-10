@@ -1,4 +1,7 @@
-# 👋 Hi, I'm Supriya Mishra
+
+<h1 align="center">Hey, I'm Supriya Mishra</h1> 
+
+<p align="center"> <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="160px" width="160px"> </p>
 
 ---
 ## 🔥 My Tech Stack
