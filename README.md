@@ -1,8 +1,8 @@
 
 <h1 align="center">Hey, I'm Supriya Mishra</h1> 
 
+<img src="https://i.gifer.com/7VE.gif" width="300"/>
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200"/>
 
 ## :wave: About Me 
 
