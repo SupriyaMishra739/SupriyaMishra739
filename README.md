@@ -4,7 +4,7 @@
 
 
 <p align="center">
-  <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" width="300"/>
+  <img src="https://octodex.github.com/nuxtocat/" width="300"/>
 </p>
 
 ## :wave: About Me 
