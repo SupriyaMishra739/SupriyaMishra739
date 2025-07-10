@@ -4,7 +4,7 @@
 
 
 <p align="center">
-  <img src="https://octodex.github.com/images/NUX_Octodex.gif" width="300"/>
+ <img src="https://octodex.github.com/images/nuxtocat.png" width="300"/>
 </p>
 
 ## :wave: About Me 
