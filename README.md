@@ -5,7 +5,7 @@
 
 ## :wave: About Me 
 
-<a href="https://www.linkedin.com/in/anu-sharma-2002/" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-512.png" height="120px" width="120px" alt="Twitter" align="right"></a>
+<a href="https://www.linkedin.com/in/supriya-mishra-3a2bb5356/" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-512.png" height="120px" width="120px" alt="Twitter" align="right"></a>
 
 - 👩‍🎓 Hey! I'm Supriya Mishra, a MTech student at RV College of Engineering Bangalore, pursuing my major in Computer Science and Engineering. 
 - 👩‍💻 I am always open to collaborating on projects and innovative ideas.
