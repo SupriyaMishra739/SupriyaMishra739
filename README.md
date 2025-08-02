@@ -39,6 +39,3 @@
 ---
 
 ⭐ **Thanks for visiting my GitHub profile!** ⭐  
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SupriyaMishra739&label=Visitors&color=blueviolet&style=for-the-badge" alt="visitor badge"/>
-</p>
