@@ -32,7 +32,8 @@
 ---
 
 ## 🌟 **Daily Contributions**
-![GitHub Streak](https://streak-stats.demolab.com/?user=SupriyaMishra739&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SupriyaMishra739&theme=dark)
+
 
 
 
