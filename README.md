@@ -32,7 +32,8 @@
 ---
 
 ## 🌟 **Daily Contributions**
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SupriyaMishra739&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com/?user=SupriyaMishra739&theme=radical)
+
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SupriyaMishra739&layout=compact&theme=radical)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SupriyaMishra739&show_icons=true&theme=radical)
